@@ -1,5 +1,5 @@
 function home (){
-  return <div>Site DG Max LTDA</div>
+  return <div>My first Home with NextJS</div>
 }
 
 export default home
